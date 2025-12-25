@@ -1,5 +1,8 @@
 # dorian-codex-protocol-for-ai-official
-Official Dorian Codex Protocol for AI (2025) by Stefano Dorian Franco. Hamiltonian Theoretical Fundamental Architecture (FTA) powered by the H_SAFE formula: H_SAFE(t)=T(t)+V(t)-Z(t). A disruptive mathematical model for AI cognitive safety, endogenous alignment, and pre-AGI stability. DOI: 10.17613/31dqx-eav56. Open Science (CC BY-NC-SA 4.0).
+OFFICIAL Dorian Codex Protocol for Artificial Intelligence (2025) by Stefano Dorian Franco. Hamiltonian Theoretical Fundamental Architecture (FTA) powered by the Dorian Codex H_SAFE formula: H_SAFE(t)=T(t)+V(t)-Z(t). A disruptive mathematical model for AI cognitive safety, endogenous alignment, and pre-AGI stability. DOI: 10.17613/31dqx-eav56. Open Science (CC BY-NC-SA 4.0).
+
+* **book of reference for the "Dorian Codex Protocol":** [Integral uncensored version / ISBN: 979-8-2617-9233-8](https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7/)
+* **book of reference for the "Dorian Codex H_SAFE" Formula:** [Integral mathematic version / Wikidata: Q137580112 / ISBN: 979-8-2791-3691-9](https://www.amazon.fr/DORIAN-CODEX-H_SAFE-Hamiltonian-Mathematic/dp/B0G9SPXWVQ) 
 
 # dorian-codex-official
 

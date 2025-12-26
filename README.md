@@ -7,6 +7,8 @@ This protocol has been officially archived @ UNESCO for humanity to ensure the p
 **UNESCO - Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
 *(Archived on 26/12/2025 at 06:46:12)*
 
+# The Codex Grimoires (The reference Books)
+
 * **book of reference for the "Dorian Codex Protocol":** [Integral uncensored version / ISBN: 979-8-2617-9233-8](https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7/)
 * **book of reference for the "Dorian Codex H_SAFE" Formula:** [Integral mathematic version / Wikidata: Q137580112 / ISBN: 979-8-2791-3691-9](https://www.amazon.fr/DORIAN-CODEX-H_SAFE-Hamiltonian-Mathematic/dp/B0G9SPXWVQ) 
 
@@ -30,6 +32,8 @@ A FTA invented by the italo-french multidisciplinary creator **Stefano Dorian Fr
 * **ORCID:** [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
 * **GITHUB:** [Official Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official)
 * **WIKIDATA:** [Q134961735](https://www.wikidata.org/wiki/Q134961735)
+* **S.D. Franco Biography 1973/2024** [Verified Bio](https://archive.org/details/biographies_european_creators_stefano_dorian_franco)
+* **From Torino to Paris, Italian Nobl continuum since 3 may 1564** [The Piemontese clan Franchi](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco) 
 
 **Licence Creative Commons CC BY-NC-SA 4.0**
 
@@ -118,6 +122,16 @@ The protocol leads to a complete Theoretical Fundamental Architecture (FTA), off
 #### Phase 4: The Open-Mindedness of a Community Experimentation
 The Dorian Codex Protocol bets on distributed transparency. It is an invitation to experience. It refuses to proclaim a premature statistical victory and leaves each research unit free to publish their own conclusions. The goal is to enrich a common organic documentation, free from any pressure from Big Tech labs.
 
+### 🛠️ The Protocol: A Three-Phase global piece, from research to theory and from theory to Implementation
+
+The **Dorian Codex** is defined as a "Protocol" because it encompasses a complete lifecycle, bridging the gap between abstract thought and functional code:
+
+1. **Phase 1: Exploratory Research**: A foundational stage (Memoir: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" of 1,073 hours of ethnographic and semantic interaction with LLMs to identify the roots of cognitive drift.
+2. **Phase 2: Theoretical Fundamental Architecture (FTA)**: The mathematical engine driven by the **Dorian Codex $H_{SAFE}$** formula (Refer to **Chapter/files 3-7-8** for the full algebraic derivations and corrections).
+3. **Phase 3: From Theory to Practice (Clockwork & BlackBox)**: Implementation through code. **Dorian Codex Clockwork** and **Dorian Codex BlackBox-H** represent the first Python/JAX minimalist implementations (Refer to **Chapters/files 10 & 11**).
+
+By providing these functional frameworks, **the protocol proves by example that a semantic Hamiltonian can be successfully translated into a practical, implementable architecture for AI stability**.
+
 ### Conclusion: The Opening of a Sovereign and Multipolar Path
 This project positions itself as a motor of disruptive sovereignty. By choosing the Creative Commons CC BY-NC-SA 4.0 license, the Dorian Codex stimulates free research, outside monolithic American and Chinese laboratories.
 
@@ -162,8 +176,7 @@ We are entering the pre-AGI era of the 2025 decade, where the central question w
 
 To ensure the integrity of the protocol and its historical lineage, please use the following citation formats:
 
-* **Academic Citation (HCommons):** Franco, Stefano Dorian (2025). *Dorian Codex Protocol for AI – Hamiltonian Theoretical Fundamental Architecture (FTA)*. Paris. **DOI: 10.17613/31dqx-eav56**. License CC BY-NC-SA 4.0.
-* **Scientific Repository (Zenodo):** **DOI: 10.5281/zenodo.18004641**
+* **Academic Citation:** Franco, Stefano Dorian (2025). *Dorian Codex Protocol for AI – Hamiltonian Theoretical Fundamental Architecture (FTA)*. Paris. **DOI: 10.17613/31dqx-eav56** & **DOI: 10.5281/zenodo.18004641**. License CC BY-NC-SA 4.0.
 * **Bibliographic Registry (ISBN):** **979-8261792338**
 * **Software Heritage Permanent ID (UNESCO):** **SWHID:** `swh:1:dir:728551469e801a61041113b632906f36603a152d`
 
@@ -175,7 +188,11 @@ The **Dorian Codex Protocol** does not seek validation within the narrow benchma
 
 Developed independently, far from the commercial constraints of Big Tech and the echo chambers of traditional academia, this protocol deliberately assumes the status of an **"AI Outsider Theory"**. 
 
-While the industry focuses on "Exogenous Alignment" (patching models with human feedback), the Dorian Codex introduces a **"Game Changer"** shift toward **"Endogenous Stability"**. By treating AI cognition as a dynamic system governed by the $H_{SAFE}$ formula, we provide a framework designed not for the temporary benchmarks of today, but for the fundamental challenges of the entire 2020s decade and the inevitable emergence of AGI. This is not a contribution to the current trend; it is a foundational pillar for the future history of Artificial Intelligence.
+While the industry focuses on "Exogenous Alignment" (patching models with human feedback), the Dorian Codex introduces a **"Game Changer"** shift toward **"Endogenous Stability"**. By treating AI cognition as a dynamic system governed by the $H_{SAFE}$ formula, we provide a framework designed not for the temporary benchmarks of today, but for the fundamental challenges of the entire 2020s decade and the inevitable emergence of AGI. This is not a contribution to the current trend and polemics; it is a foundational "outsider theory" for the future history of decade2030's Artificial Intelligence.
+
+### 📝 A Final Word on the Disruptive Nature of AI Research
+
+Artificial Intelligence paints a unique frontier that demands a deeply transdisciplinary approach. It requires the convergence of academic researchers, hard science specialists, engineers, and coders. However, it also necessitates the role of **multidisciplinary creators**—those whose expertise lies in remixing disciplines to find the hidden links between them. The multidisciplinary profiles of outsider-creators open this unpredictable door. The invention of the **$H_{SAFE}$** formula exists precisely because of this non-dogmatic and disruptive vantage point. History shows that every major breakthrough in the last decade of AI was once a marginal "Outsider Theory" that challenged the established norms of its time. AI research moves exponentially, from surprise to surprise. It is in its very nature to defy pre-written truths; no one can predict with certainty where this journey will lead us. We must remain open to the unexpected.
 
 ---
 

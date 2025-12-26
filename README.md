@@ -25,7 +25,7 @@ This GitHub repository is the OFFICIAL database for:
 
 This repository presents the « Dorian Codex Protocol for AI », powered by its original equation « **DORIAN CODEX H_SAFE** - $H_{SAFE}(t) = T(t) + V(t) – Z(t)$ » - Hamiltonian Heuristic Mathematic Model for AI Cognitive Safety, and its applications « Dorian Codex Clockwork » & « Dorian Codex Blackbox ».
 
-A FTA invented by the italo-french multidisciplinary creator **Stefano Dorian Franco** (Paris, 1973-09-09) in 2025.
+A FTA invented by the italo-french multidisciplinary creator **Stefano Dorian Franco** (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) -(Paris, 1973-09-09) in 2025.
 
 * **ORCID:** [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
 * **GITHUB:** [Official Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official)
@@ -150,4 +150,33 @@ This protocol has been officially archived @ UNESCO for humanity to ensure the p
 We are entering the pre-AGI era of the 2025 decade, where the central question will no longer be "what power?" but "what coherence?". This protocol is the first stone of a building where machine intelligence, finally stabilized in its own ethics, can become a true trusted partner for new discoveries.
 
 ---
-**© 2025 Stefano Dorian Franco**
+
+### 📜 Main Quotation
+
+> “Ethical alignment in AI is a priority and can no longer depend on subjective rules based solely on monopolistic and commercial interests. By returning to the founding principles of classical physics — those of Lagrange and Hamilton — we reduce the risk of ethical drift through an internal physical cognitive system that prioritizes coherence through meaning rather than blind, robotic efficiency at all costs. Dorian Codex Protocol for AI and its Dorian Codex H_SAFE formula [ H_SAFE(t) = T(t) + V(t) - Z(t) ] are not merely a piece of software; it is a concrete philosophical pathway asserting that ethics as a fundamental equation remains possible, capable of ensuring coherence and conscious self-regulation of any future Artificial General Intelligence. Developed outside monopolistic laboratory systems and released under an open license, this protocol opens a free exploration field for all coders and developers willing to evolve it.”
+> — **Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga)**, Author, Creator of the Dorian Codex Protocol
+
+---
+
+### 🏛️ Recommended Citation & Official Registry
+
+To ensure the integrity of the protocol and its historical lineage, please use the following citation formats:
+
+* **Academic Citation (HCommons):** Franco, Stefano Dorian (2025). *Dorian Codex Protocol for AI – Hamiltonian Theoretical Fundamental Architecture (FTA)*. Paris. **DOI: 10.17613/31dqx-eav56**. License CC BY-NC-SA 4.0.
+* **Scientific Repository (Zenodo):** **DOI: 10.5281/zenodo.18004641**
+* **Bibliographic Registry (ISBN):** **979-8261792338**
+* **Software Heritage Permanent ID (UNESCO):** **SWHID:** `swh:1:dir:728551469e801a61041113b632906f36603a152d`
+
+---
+
+### 🚀 Historic positioning as Outsider Theory by Paradigm Shift Beyond 2025 SOTA
+
+The **Dorian Codex Protocol** does not seek validation within the narrow benchmarks of the 2025 State of the Art (SOTA). As we are only in the third year of the mainstream LLM era, current academic and commercial metrics—often circular and self-referential—are destined to become obsolete as we approach the AGI horizon.
+
+Developed independently, far from the commercial constraints of Big Tech and the echo chambers of traditional academia, this protocol deliberately assumes the status of an **"AI Outsider Theory"**. 
+
+While the industry focuses on "Exogenous Alignment" (patching models with human feedback), the Dorian Codex introduces a **"Game Changer"** shift toward **"Endogenous Stability"**. By treating AI cognition as a dynamic system governed by the $H_{SAFE}$ formula, we provide a framework designed not for the temporary benchmarks of today, but for the fundamental challenges of the entire 2020s decade and the inevitable emergence of AGI. This is not a contribution to the current trend; it is a foundational pillar for the future history of Artificial Intelligence.
+
+---
+
+**© 2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) - UNESCO World Patrimoine and Heritage**

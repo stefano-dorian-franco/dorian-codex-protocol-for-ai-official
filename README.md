@@ -1,6 +1,12 @@
 # dorian-codex-protocol-for-ai-official
 OFFICIAL Dorian Codex Protocol for Artificial Intelligence (2025) by Stefano Dorian Franco. Hamiltonian Theoretical Fundamental Architecture (FTA) powered by the Dorian Codex H_SAFE formula: H_SAFE(t)=T(t)+V(t)-Z(t). A disruptive mathematical model for AI cognitive safety, endogenous alignment, and pre-AGI stability. DOI: 10.17613/31dqx-eav56. Open Science (CC BY-NC-SA 4.0).
 
+# 🛡️ Permanent and Timeless Archival Proof (UNESCO)
+This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
+
+**UNESCO - Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
+*(Archived on 26/12/2025 at 06:46:12)*
+
 * **book of reference for the "Dorian Codex Protocol":** [Integral uncensored version / ISBN: 979-8-2617-9233-8](https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7/)
 * **book of reference for the "Dorian Codex H_SAFE" Formula:** [Integral mathematic version / Wikidata: Q137580112 / ISBN: 979-8-2791-3691-9](https://www.amazon.fr/DORIAN-CODEX-H_SAFE-Hamiltonian-Mathematic/dp/B0G9SPXWVQ) 
 
@@ -11,6 +17,7 @@ This GitHub repository is the OFFICIAL database for:
 **« Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA) » (2025)**
 
 *A Mathematical Heuristic Formula and FTA for a New Paradigm Shift in AI History*
+
 
 ---
 
@@ -113,6 +120,32 @@ The Dorian Codex Protocol bets on distributed transparency. It is an invitation 
 
 ### Conclusion: The Opening of a Sovereign and Multipolar Path
 This project positions itself as a motor of disruptive sovereignty. By choosing the Creative Commons CC BY-NC-SA 4.0 license, the Dorian Codex stimulates free research, outside monolithic American and Chinese laboratories.
+
+---
+
+## 🏛️ Intellectual Lineage & Originality Statement
+
+The **Dorian Codex Protocol** ($H_{SAFE} = T + V - Z$) is an original and independent contribution to the field of AI Safety. While the term "Safe Hamiltonian" has been explored in mechanical control theory and robotics (notably by *Kanso et al., 2023*, *Ames et al., 2019*, and *Theilliol*), this protocol introduces a fundamental paradigm shift.
+
+### Differentiation Matrix
+
+| Component | Mechanical Control (Prior Art) | **Dorian Codex (This Protocol)** |
+| :--- | :--- | :--- |
+| **Domain** | Robotics & Physical Trajectories | **Large Language Models & Semantics** |
+| **Application** | Obstacle avoidance (Physical Walls) | **Hallucination Mitigation (Truth Anchoring)** |
+| **T (Velocity)** | Kinetic Energy / Physical Flow | **Inference Speed / Narrative Expansion** |
+| **V (Alignment)** | Barrier Functions (Lyapunov) | **Ethical Alignment & Truth Vectoring** |
+| **Z (Entropy)** | Control Cost / Perturbations | **Semantic Decay & Information Loss** |
+
+**Official Recognition:** We acknowledge and congratulate our predecessors in the field of mechanical safety. However, the **Dorian Codex** by Stefano Dorian Franco is the first framework to map the Hamiltonian structure onto the **semantic stability** of AI-generated content. It stands as a novel, independent work for the protection of human-AI information integrity.
+
+### 🛡️ Permanent Archival Proof (UNESCO)
+This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
+
+**Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
+*(Archived on 26/12/2025 at 06:46:12)*
+
+---
 
 We are entering the pre-AGI era of the 2025 decade, where the central question will no longer be "what power?" but "what coherence?". This protocol is the first stone of a building where machine intelligence, finally stabilized in its own ethics, can become a true trusted partner for new discoveries.
 

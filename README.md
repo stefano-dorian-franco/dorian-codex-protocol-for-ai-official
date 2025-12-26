@@ -33,8 +33,9 @@ A FTA invented by the italo-french multidisciplinary creator **Stefano Dorian Fr
 * **GITHUB:** [Official Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official)
 * **WIKIDATA:** [Q134961735](https://www.wikidata.org/wiki/Q134961735)
 * **S.D. Franco Biography 1973/2024** [Verified Bio](https://archive.org/details/biographies_european_creators_stefano_dorian_franco)
-* **From Torino to Paris, Italian Nobl continuum since 3 may 1564** [The Piemontese clan Franchi](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco) 
-
+---
+* **Tribute from the author to the spirit of le comte Joseph-Louis Lagrange (Turin, 1736 - Paris, 1813) From Torino to Paris, Italian Nobl continuum of the Piemontese old families, since 3 may 1564** [The Torinese clan Franchi tribute Lagrange](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco) 
+---
 **Licence Creative Commons CC BY-NC-SA 4.0**
 
 ---
@@ -75,6 +76,26 @@ $$R_{\Delta} = \frac{dH_{SAFE}}{dt} \times \frac{1}{Z}$$
 which enables autonomous self-adjustment of the system's stability.
 
 Beyond pure theory, the protocol introduces two operational implementation frameworks—**Clockwork FTA** (native cognitive integrity architecture) and **BlackBox-H** (real-time corrective module for proprietary models with minimal latency) —explicitly providing the key to empirical operational transition.
+
+### 🛡️ Core Discovery: $H_{SAFE} = T(t) + V(t) - Z(t)$ — A new formula as a Pure Logical Prism
+
+The $H_{SAFE}$ formula is not merely a set of rules; it is a **foundational engine of structural stability**. Its value does not lie in a quest for raw performance, but in its **resilient abstraction**.
+
+#### 1. The "Unbreakable Core" Logic
+The primary test for any safety protocol is its behavior under extreme pressure. While standard AI architectures—relying on external statistical guardrails—tend to hallucinate or diverge when faced with high-entropy paradoxes, the $H_{SAFE}$ core remains **logically unbreakable**. By treating stability as a physical invariant (Hamiltonian), it ensures that the system’s "semantic energy" is always conserved and re-balanced. It does not merely filter the error; it mathematically prevents the **systemic collapse**.
+
+#### 2. The Paradox: Simplicity as a Catalyst for Complexity
+There is a fundamental principle at the heart of the Dorian Codex: **simplicity enables complexity.** Because the $H_{SAFE}$ engine is a "pure prism"—a raw, minimalist core—it provides a non-negotiable safety chassis. This structural rigidity paradoxically grants developers total freedom to build increasingly complex layers (LLMs, Agentic systems, AGI) on top of it, with the mathematical guarantee that the foundational anchor will not drift.
+
+#### 3. An Open Paradigm for Independent Innovation
+This protocol is deliberately released under **Creative Commons CC BY-NC-SA 4.0**. This choice is a strategic commitment to the global scientific and independent community:
+
+* **Beyond Big Tech Dictates:** By making this "raw engine" accessible, we empower university researchers, independent engineers, and coders to work outside the immediate pressure of commercial profitability.
+* **A Collaborative Foundation:** This formula is a starting point, not a finality. It is designed to be developed, refined, and complexified by those seeking to explore a new paradigm of AI stability.
+* **Sovereign Evolution:** It offers a path for the emergence of an AI that is fundamentally safe by design, built on a shared, transparent, and unbreakable logical core.
+
+---
+*From performance to reliability. From external constraints to internal mathematical necessity.*
 
 ---
 
@@ -196,4 +217,6 @@ Artificial Intelligence paints a unique frontier that demands a deeply transdisc
 
 ---
 
-**© 2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) - UNESCO World Patrimoine and Heritage**
+**© 2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) 
+---
+This new heuristic mathematic formula @ UNESCO World Patrimoine and Heritage**

@@ -95,12 +95,11 @@ H_SAFE is a **voluntary mathematical chimera**, produced through an **absolutist
 
 ---
 
-## 🔹 BOOK III — DEBRIEFING  
+## 🔹 BOOK III — DEBRIEFING THE CHIMERA FORMULA  
 ### *The Transmutation*
 
 **Title:**  
-*Dorian Codex Protocol Reloaded for Artificial Intelligence –  
-Heuristic Epistemological Architecture into Pre-AGI Cognitive Stability*
+*Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence AGI*
 
 **Status:** 
 
@@ -158,6 +157,59 @@ intended to remain intelligible to future intelligences looking back at the pre-
 
 This repository is not a roadmap to AGI.  
 It is a **witness document** of an era attempting to think beyond its own formal limits.
+
+///////////
+
+Name of the book: « Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) −
+Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence
+AGI »
+Author: Stefano Dorian Franco (Paris, 1973-09-09)
+Release date: 2025-12-31
+Code ISBN : 9798242090590 (Amazon Kdp)
+DOI: 10.17613/49knc-jb116
+Hcommons: https://works.hcommons.org/records/49knc-jb116
+Osf: https://osf.io/3mc5q/overview
+Academic:
+https://www.academia.edu/145693121/Official_Source_reference_for_Dorian_Codex_H_Safe_H_Safe_
+t_T_t_V_t_Z_t_Epistemological_Discovery_of_a_Heuristic_Mathematical_Equation_for_Artificial_In
+telligence_Cognitive_Stability_and_Evolution
+Official GitHub: https://github.com/stefano-dorian franco/dorian_codex_H_safe_equation_official
+Wikidata: Q137580112 = https://www.wikidata.org/wiki/Q137580112
+This book is the third and last part of the « Dorian Codex Trilogy » (2025).
+This book describes, with new and expanded perspectives, the heuristic mathematical formula « Dorian Codex H_SAFE »,
+introduced in chapters 7 and 8 of the second book of the trilogy:
+Name of the book : « Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical
+Fundamental Architecture (FTA) »
+Author: Stefano Dorian Franco (Paris, 1973-09-09)
+Release date: 2025-12-17
+ISBN: 9798261792338 (Amazon KDP)
+DOI: 10.17613/31dqx-eav56
+Hcommons: https://works.hcommons.org/records/31dqx-eav56
+DOI: 10.17605/OSF.IO/673JX
+Osf: https://osf.io/673jx/overview
+DOI: 10.5281/zenodo.18004641
+Zenodo: https://doi.org/10.5281/zenodo.18004641
+Academic:
+https://www.academia.edu/145413366/Dorian_Codex_Protocol_for_Artificial_Intelligence_Hamiltonian_Th
+eoretical_Fundamental_Architecture_FTA_by_Stefano_Dorian_Franco_2025_
+InternetArchive: https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco
+Official GitHub: https://github.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official
+Unesco
+These two books are based on the 842-page research memoir on digital ethnography and epistemology:
+Name of the : «Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical
+Fundamental Architecture (FTA) for Artificial General Intelligence (AGI) »
+Author: Stefano Dorian Franco (Paris, 1973-09-09)
+Release date: 2025-11-21
+DOI: 10.17605/OSF.IO/FE25Y
+Osf: https://osf.io/fe25y/overview
+Academic: InternetArchive:
+https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digi
+tal_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book
+_written_by_Stefano_Dorian_Franco_2025_
+© Stefano Dorian Franco, all rights reserved. Paris – Torino, 2025.
+https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official / ORCID: 0009-0007-4714-1627
+Wikidata: Q134961735 https://www.wikidata.org/wiki/Q134961735 ***
+Licence Creative Commons CC BY-NC-SA 4.0
 
 
 //////////

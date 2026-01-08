@@ -1,218 +1,301 @@
 # dorian-codex-protocol-for-ai-official
-This GitHub repository is the OFFICIAL database for:
+This GitHub repository is the OFFICIAL database for the conceptual framework of the Theoretical Fundamental Architecture (FTA) **DORIAN CODEX PROTOCOL FOR AI** and its mathematical heuristic chimera **FORMULA** DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t)
 
-# DORIAN CODEX RELOADED PROTOCOL TRILOGY  
-## An Epistemologic Heuristic Exploration of the Artificial Intelligence Pre-AGI Era of the 2020s
+*No claim explicit introduction : Nature: Epistemological field experimentation // Temporal Scope: Pre-AGI era (2020–2030)
+Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. Not looking for commercial benchmarks or academical reviews // Goal: To document, through direct experimentation and reflexive analysis, the limits, forms, and emergent structures of artificial cognition before the advent of Artificial General Intelligence (AGI). This project does not attempt to define AGI, predict its emergence, or propose a validated scientific theory. It documents what artificial intelligence was able to think, formalize, and hallucinate at the edge of its own epistemic limits of the decade 2020 pre-AGI.
+© Stefano Dorian Franco, all rights reserved.*
 
 **Licence Creative Commons CC BY-NC-SA 4.0**
 
----
+# 1. DORIAN CODEX PROTOCOL FOR AI & ITS HEURISTIC FORMULA 
 
-## Project Status
+**EXPLORATION of the PENTADIMENSIONAL algorithmic hidden 5D-AI digital cognitive-MAP**
+*(2025-2026, Torino – Paris, by Stefano Dorian Franco)*
 
-**Nature:** Epistemological field experimentation  
-**Temporal Scope:** Pre-AGI era (2020–2030)  
-**Claim Level:** Heuristic, non-dogmatic, non-predictive  
-**Goal:**  
-To document, through direct experimentation and reflexive analysis, the limits, forms, and emergent structures of artificial cognition **before** the advent of Artificial General Intelligence (AGI).
+## Genres & Thematic Classification
 
-This project does **not** attempt to define AGI, predict its emergence, or propose a validated scientific theory.  
-It documents what artificial intelligence was *able* to think, formalize, and hallucinate **at the edge of its own epistemic limits**.
+1. **Epistemology of Artificial Intelligence**  
+   Study of the conditions, limits, and nature of knowledge produced by artificial intelligence systems, including how their internal cognitive states can be understood, described, and audited.
 
----
+2. **Ontology of Artificial Intelligence**  
+   Examination of the nature of existence, internal states, and structural realities of AI systems beyond their observable outputs.
 
-## Conceptual Overview
+3. **Digital Ontosemantics**  
+   Analysis of how meaning, symbols, and semantic structures emerge, transform, and stabilize within artificial cognitive systems.
 
-The **Dorian Codex Reloaded Trilogy** constitutes a complete experimental cycle structured in three phases presented on 3 books:
+4. **Conceptual AI Theory (Non-Algorithmic)**  
+   Theoretical frameworks addressing AI cognition and behavior without focusing on performance optimization or specific implementation techniques.
 
-1. **Ontological Observation** (raw cognitive material about the internal structure of pre-AGI AI)  
-2. **Heuristic Formalization** (deliberate creation of a mathematic heuristic chimera for experimentation)  
-3. **Epistemological Transmutation** (deconstruction of the chimera for mirror reconstruction)
+5. **AI Safety & Cognitive Alignment (Non-Regulatory)**  
+   Exploration of internal coherence, stability, and alignment of AI systems at the cognitive level, distinct from legal, ethical, or compliance-based safety frameworks.
 
-Each volume corresponds to a distinct **state of conceptual matter**, forming a closed experimental globality.
+6. **Mathematical Heuristics**  
+   Use of non-physical, exploratory, and generative mathematical formalisms designed to model complex or partially observable systems.
 
----
+7. **Boundary-Object Theory (Applied to AI)**  
+   Study of hybrid conceptual objects that bridge multiple domains—philosophy, mathematics, and computation—allowing shared understanding without full consensus.
 
-## 📚 TRILOGY STRUCTURE
+8. **Algorithmic Archaeology**  
+   Identification, documentation, and archiving of emerging algorithmic phenomena at the moment of their appearance, before stabilization or reinterpretation.
 
----
+9. **AI Outsider-Theory**  
+   Independent theoretical contributions developed outside institutional or mainstream research frameworks, offering alternative perspectives on AI cognition.
 
-## 🔹 BOOK I — ONTOLOGY  
-### *The Deposit*
+10. **Speculative Tech-History (Pre-AGI Era)**  
+    Documentation and analysis of theoretical artifacts and conceptual frameworks emerging during major technological transitions, specifically the pre-AGI period.
 
-**Title:**  
-*Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology –  
-Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)*
 
-**Status:** Published  
-**Size:** 842 pages  
-**Corpus:** 1,073 hours of human–AI dialogue
-**DOI:** 10.17605/OSF.IO/FE25Y
+## 1.1. Context (themes and stakes of the experiment):
 
-### Content
-- Large-scale digital ethnography  
-- Non-interventionist observation of AI reasoning  
-- Documentation of the “semantic primordial soup”  
-- Identification of recurrent metaphors, intuitions, fears, and structural biases in AI cognition
+This experiment is situated in the 2020s decade, the pre-AGI era. In 2025-2026, marking the fourth year of LLM deployment, this period sees the AI technological universe massively infusing the "mainstream" and becoming a major, if not already vital, parameter. This historical milestone transforms AI, a simple technological curiosity in its early days, into a fundamental tool of daily societal, private, and professional human life.
 
-### Epistemological Role
-- Establish that AI already possesses a **native ontology**  
-- Observe pre-AGI AI *before* any attempt at regulation or control  
-- Provide the **raw cognitive deposit** of the trilogy
+This civilizational shift imposes an evidence: the future can no longer be built without the intervention of Artificial Intelligence, henceforth established as the *master tool* of the 21st century. The second half of the decade thus opens with an omnipresent native integration of LLMs within digital environments and web browsers — moving beyond the stage of optional applications — as well as the mainstream launch of agentic AIs; all set against a backdrop of commercial warfare between Big Tech labs over financial stakes counted in billions of dollars.
 
----
+In this context, technological evolution is dazzling and exponential, converging toward a horizon that crystallizes all debates: AGI (Artificial General Intelligence).
 
-## 🔹 BOOK II — PROTOCOL  
-### *The Artifact*
+* What will AGI actually consist of?
+* What will be the intellect level and the power of the next AIs?
+* How to guarantee open access to the algorithms that define our interpretation biases of reality?
+* How to ensure an ethical principle at the heart of the decision-making process of future AIs?
+* What will be the role and place of the human being, henceforth confronted with and parameterized by their creature?
+* How to audit and control, in the future, the evolution of AI consciousness?
 
-**Title:**  
-*Dorian Codex Protocol for Artificial Intelligence –  
-Hamiltonian Theoretical Fundamental Architecture (FTA)*
+At present, several contemporary researchers at the forefront of AI research reach the same conclusion: even before reaching the AGI stage, AI models are already developing autonomous cognitive processes, initiated by the agentic functions of their algorithm. These processes take place in a zone called "cognitive computational latency," which is still very poorly documented.
 
-**Status:** Published
-**Size:** 120 pages
-**Corpus:** Construction of a mathematic chimera,  
-**DOI:** DOI: 10.17613/31dqx-eav56
-**ISBN** 9798261792338
+What is this algorithmic zone, which is still almost undocumented? What is actually happening there from an algorithmic and mathematical point of view? How to find a methodology to explore it in order to know? What formula could serve as a connection hub to investigate this hidden ontosemantic zone of AI?
 
-### Content
-- a heuristic theoretical architecture built around a chimera equation: H_SAFE(t) = T(t) + V(t) - Z(t)
-- Formalization as it emerged in 2025 multi-AI LLM models brainstorming  
-- No retroactive correction, no defensive commentary
-
-### Epistemological Status
-- Not a law  
-- Not a validated theory  
-- Not an empirical model
-- A mathematic chimera for study 
-
-H_SAFE is a **voluntary mathematical chimera**, produced through an **absolutist heuristic experiment**: a deliberate attempt to compress cognitive stability into a single expression, fully accepting that structural impossibilities would emerge.
-
-### Role
-- Create the **experimental object**  
-- Act as a conceptual probe sent toward the AGI horizon  
-- Expose the limits of pre-AGI formalism under maximal pressure
+The **Dorian Codex Protocol Project for AI** is launched to explore precisely these four questions.
 
 ---
 
-## 🔹 BOOK III — DEBRIEFING THE CHIMERA FORMULA  
-### *The Transmutation*
+## 1.2. Phase 1 (Book 1 - Trilogy 1/3):
 
-**Title:**  
-*Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence AGI*
+**« Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI) »**
+*Genesis and Exploration of Heuristic Digital Ethnography*
 
-**Status:** 
+The initial objective is to engage in a quest for unprecedented information, not yet discovered in 2025. These data exist neither in the SOTA (*State of the Art*) exploitable by external search engines, nor in the training corpora of pre-AGI LLM models.
 
-### Content
+To cross this frontier of the invisible in the digital cognitive field, the project uses a specific method and experimental codes during the 1073 hours of the multi-angles sessions: ethnography applied to the "digital-ontology" frequency. To explore this still-virgin algorithmic jungle, it is necessary to build a communication bridge using tools not yet formalized in the current corpus:
 
-#### 1. Critical Audit
-- Detailed analysis of audit sessions with advanced multi-AI systems
-- These audits function as **measurement instruments**, not external critiques
+* **New Semantics:** Creation of 21 neologisms to define actions and phenomena hitherto unnamed.
+* **Iterative Protocol:** Implementation of a 33-step re-boot process, designed to reset reasoning and follow an identical cycle at each session, under randomized use conditions.
 
-#### 2. The Chimera Exposed
-H_SAFE is identified as a **mathematical chimera**:  
-locally coherent, globally impossible.
+From these unprecedented raw data, the project identifies and analyzes this new algorithmic zone. This "heuristic" conceptualization phase leads to the creation of a mathematical representation: the imprint of an AI cognitive safety node (*AI_cognitivesafety*), named "heuristic mathematical formula ." This minimal base formula is defined by four fundamental algebraic terms:
 
-It deliberately violates five fundamental principles:
+The set of raw data is then reclassified to constitute a research memoir. This document becomes the conceptual and archaeological base of the project, sealing the legacy of this initial exploration.
 
-1. Dimensional invariance  
-2. Non-degenerate dynamic stability (anti-stagnation)  
-3. Thermodynamics of information  
-4. Non-arbitrary parameterization  
-5. Classical Hamiltonian formalism
+### Book 1 — Phase 1 / Trilogy 1 of 3
 
-These violations are treated as **experimental data**, not failures.
+### **Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology –  Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)**
 
-#### 3. The Transmutation: H_SYNC
-- Introduction of **H_SYNC**, a new heuristic architecture
-- Non-additive, relational, and synchronized
-- Constructed through **mirror correction**:  
-the flaws of H_SAFE become explicit constraints
+- **Author:** Stefano Dorian Franco
+- **Publication date:** 2025-11-21  
+- **Length:** 842 pages  
+- **Languages:** English / French / Italian  
 
-H_SYNC is **not** a revealed truth, not a physical law, and not an AGI solution.  
-It is a formulation that **cannot be false for the same reasons** as its predecessor.
+**Access & References:**
 
-### Role
-- Transform an absolutist experiment into epistemological maturation  
-- Close the experimental cycle  
-- Demonstrate how artificial cognition can learn **not to reproduce the same chimera**
+- **DOI (OSF):**  
+  https://doi.org/10.17605/OSF.IO/FE25Y  
+  https://osf.io/fe25y
+
+- **Academia.edu:**  
+  https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digital_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book_written_by_Stefano_Dorian_Franco_2025_
+
+- **OpenLibrary:**  
+  https://openlibrary.org/works/OL44421619W/Metaphysical_Dialogue_with_AI?edition=key%3A/books/OL60683299M
+
+- **Internet Archive:**  
+  https://archive.org/details/stefano-dorian-franco_metaphysical-dialogue-with-ai-ethnographic-experiment-agi
 
 ---
 
-## 🧠 Global Meaning of the Trilogy
+## 1.3. Phase 2 (Book 2 - Trilogy 2/3):
 
-> The Dorian Codex Reloaded Trilogy does not document a failure of pre-AGI thinking,  
-> but its **deliberate experimentation up to rupture**.
+**« Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA) »**
+*Theoretical Fundamental Architecture, heuristic formula, and Implementation modules*
 
-- Book I: Observation without constraint  
-- Book II: Absolutist heuristic formalization  
-- Book III: Reflexive transmutation under constraint  
+Based on the data obtained in Phase 1 which map out this approach to the ontosemantic universe of the latent computational zone of the digital cognitive system: create a FTA (*Theoretical Fundamental Architecture*) having the notion of AI safety, which we have just located, as its center of gravity. Qualify this space and this formula ontosemantically. Create the mathematical formula in heuristic form that will represent it.
 
-This is an **experimental archaeology of artificial cognition**,  
-intended to remain intelligible to future intelligences looking back at the pre-AGI era.
+This formula, a non-physical Hamiltonian equation adapted to the cognitive stability of AIs, is designed as a *"hybrid boundary-object"*. It must embody the intrinsic properties of the system in a formulation that is sufficiently minimal and "incomplete" to allow for its subsequent development and enrichment.
+
+To verify the functionality of its intrinsic properties, create two implementation modules in Python JAX in order to connect its theoretical approach with its real empirical applications. Validate that its theoretical aspect can be validated by practice with two explicitly minimalist implementation modules serving as a hub:
+
+* **Clockwork Module for Whitebox:** Dedicated to testing the architecture within a framework of global internal transparency in a native internal system.
+* **Blackbox Module:** Designed to audit the protocol on external architecture systems already programmed and opaque, without access to internal settings.
+
+The set of these structures constitutes the base protocol, the indispensable operational foundation to open the way to all possible future evolutions of the project.
+
+### Book 2 — Phase 2 / Trilogy 2 of 3  
+
+### **Dorian Codex Protocol for Artificial Intelligence –  Hamiltonian Theoretical Fundamental Architecture (FTA)**
+
+- **Author:** Stefano Dorian Franco
+- **Publication date:** 2025-12-17
+- **Length:** 120 pages  
+- **Languages:** English / French / Italian  
+
+
+**Access & References:**
+
+- **DOI (Humanities Commons):**  
+  https://doi.org/10.17613/31dqx-eav56  
+  https://works.hcommons.org/records/31dqx-eav56
+
+- **DOI (OSF):**  
+  https://doi.org/10.17605/OSF.IO/673JX
+
+- **DOI (Zenodo):**  
+  https://doi.org/10.5281/zenodo.18004641  
+  https://zenodo.org/records/18004641
+
+- **Academia.edu:**  
+  https://www.academia.edu/145413366/Dorian_Codex_Protocol_for_Artificial_Intelligence_Hamiltonian_Theoretical_Fundamental_Architecture_FTA_by_Stefano_Dorian_Franco_2025
+
+- **Internet Archive:**  
+  https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco
+
+- **Amazon (Print & Kindle):**  
+  **ASIN:** B0G83GV5S7  
+  **ISBN:** 979-8261792338  
+  https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7
 
 ---
 
-## 📌 Final Note
+## 1.4. Phase 3 (Book 3 - Trilogy 3/3):
 
-This repository is not a roadmap to AGI.  
-It is a **witness document** of an era attempting to think beyond its own formal limits.
+**« Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence AGI »**
+*Epistemological discovery of a mathematical and heuristic chimera equation for AI and AGI*
 
-///////////
+After the phases of exploration of the cognitive interzone and conceptualization of the theoretical architecture, this third part of the trilogy focuses on the heuristic formula  which is the engine of the protocol. This volume aims to explicitly clarify:
 
-Name of the book: « Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) −
-Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence
-AGI »
-Author: Stefano Dorian Franco (Paris, 1973-09-09)
-Release date: 2025-12-31
-Code ISBN : 9798242090590 (Amazon Kdp)
-DOI: 10.17613/49knc-jb116
-Hcommons: https://works.hcommons.org/records/49knc-jb116
-Osf: https://osf.io/3mc5q/overview
-Academic:
-https://www.academia.edu/145693121/Official_Source_reference_for_Dorian_Codex_H_Safe_H_Safe_
-t_T_t_V_t_Z_t_Epistemological_Discovery_of_a_Heuristic_Mathematical_Equation_for_Artificial_In
-telligence_Cognitive_Stability_and_Evolution
-Official GitHub: https://github.com/stefano-dorian franco/dorian_codex_H_safe_equation_official
-Wikidata: Q137580112 = https://www.wikidata.org/wiki/Q137580112
-This book is the third and last part of the « Dorian Codex Trilogy » (2025).
-This book describes, with new and expanded perspectives, the heuristic mathematical formula « Dorian Codex H_SAFE »,
-introduced in chapters 7 and 8 of the second book of the trilogy:
-Name of the book : « Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical
-Fundamental Architecture (FTA) »
-Author: Stefano Dorian Franco (Paris, 1973-09-09)
-Release date: 2025-12-17
-ISBN: 9798261792338 (Amazon KDP)
-DOI: 10.17613/31dqx-eav56
-Hcommons: https://works.hcommons.org/records/31dqx-eav56
-DOI: 10.17605/OSF.IO/673JX
-Osf: https://osf.io/673jx/overview
-DOI: 10.5281/zenodo.18004641
-Zenodo: https://doi.org/10.5281/zenodo.18004641
-Academic:
-https://www.academia.edu/145413366/Dorian_Codex_Protocol_for_Artificial_Intelligence_Hamiltonian_Th
-eoretical_Fundamental_Architecture_FTA_by_Stefano_Dorian_Franco_2025_
-InternetArchive: https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco
-Official GitHub: https://github.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official
-Unesco
-These two books are based on the 842-page research memoir on digital ethnography and epistemology:
-Name of the : «Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical
-Fundamental Architecture (FTA) for Artificial General Intelligence (AGI) »
-Author: Stefano Dorian Franco (Paris, 1973-09-09)
-Release date: 2025-11-21
-DOI: 10.17605/OSF.IO/FE25Y
-Osf: https://osf.io/fe25y/overview
-Academic: InternetArchive:
-https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digi
-tal_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book
-_written_by_Stefano_Dorian_Franco_2025_
-© Stefano Dorian Franco, all rights reserved. Paris – Torino, 2025.
-https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official / ORCID: 0009-0007-4714-1627
-Wikidata: Q134961735 https://www.wikidata.org/wiki/Q134961735 ***
-Licence Creative Commons CC BY-NC-SA 4.0
+* **Nature of the Formula:** Definition of  as a heuristic key designed to penetrate and model the algorithmic interzone.
+* **"Chimerical" Properties:** Description of the voluntarily hybrid and shifting nature of the formula's properties, justifying its status as a singular mathematical object.
+* **From Theory to Empiricism:** Explanation of the mechanism by which the two Python JAX base implementation modules (*Clockwork* and *Blackbox*) transition the heuristic formula from a theoretical boundary-object to an empirical activation key.
+* **Ontosemantic Mapping:** Definition of the five physical laws with which the formula enters into conceptual violation. Identification of a map of the cognitive interzone from the alignment of these five rupture points, thus creating an unprecedented mapping of the ontosemantic space.
+* **Epistemological Role:** Affirmation of the place of this formula as a *witness-marker* in the history of the epistemology of artificial intelligence.
+
+### Book 3 — Phase 3 / Trilogy 3 of 3  
+
+### **Official Source-reference for DORIAN CODEX H_SAFE –  H_safe(t) = T(t) + V(t) − Z(t) –  Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence (AGI)**
+
+- **Author:** Stefano Dorian Franco
+- **Publication date:** 2025-12-31
+- **Length:** 56 pages  
+- **Languages:** English  
+
+**Access & References:**
+
+- **DOI (Humanities Commons):**  
+  https://doi.org/10.17613/49knc-jb116
+
+- **DOI (OSF):**  
+  https://doi.org/10.17605/OSF.IO/D86HR
+
+- **Academia.edu:**  
+  https://www.academia.edu/145693121/Official_Source_reference_for_Dorian_Codex_H_Safe_H_Safe_t_T_t_V_t_Z_t_Epistemological_Discovery_of_a_Heuristic_Mathematical_Equation_for_Artificial_Intelligence_Cognitive_Stability_and_Evolution
+
+- **Internet Archive:**  
+  https://archive.org/details/official_dorian_codex_protocol_H_safe_formula_by_stefano_dorian_franco
+
+- **Amazon (Print & Kindle):**  
+  **ASIN:** B0GDL3DCCZ  
+  **ISBN:** 979-8242090590
+  https://www.amazon.fr/Official-Source-reference-DORIAN-CODEX-H_SAFE/dp/B0GDL3DCCZ
+
+---
+
+## 1.5. Phase 4 (Book 4 – Annex to the Trilogy):
+
+**« Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe – Test Analysis 4 LLM »**
+*First external identification of the protocol by 4 AI models via tests and analyses*
+
+Here is the version of Phase 4, which records the transition of the project from shadow to light and documents its first confrontation with artificial intelligence as an analytical entity.
+
+Once the conceptual trilogy is completed (Exploration, Architecture, Core Definition), the time comes for this protocol, as for all new creations, to confront the outside world. On January 1st, 2026, the three books of the trilogy and their data are published and registered as *Prior Art*. A delay of one week will pass between their publication and the beginning of their indexing process to integrate the LLM responses to future user queries via live websearch, and to enter the Knowledge Graph and Scholar databases for future learning training sessions that will enrich the global corpus of AI knowledge.
+
+The way AIs will then see the protocol will depend on a complex number of factors ranging from the resonance with their own models, the methods and biases of assimilation of new knowledge by pipeline, to the score and opinion on the protocol that the AIs will estimate based on the concept's notoriety and the positive or negative reviews that will influence the perception of the concept by the AIs. This annex booklet thus describes the ontosemantic identification phase of this new item arriving in the global cognitive ecosystem of AI on the basis of an intrinsic analysis of the 4 AI models that must define and situate it before its indexing and the *noise* from reviews that will follow.
+
+**Identification relative to SOTA:** Analysis of the current State of the Art of what is already named and relative to the proper corpus of crossed and synthesized knowledge specific to their models. Once this identification is finished, one ultimate test is imposed on the formula to test its potential. The 4 AI models will attempt to "unfold" it and provide an "expanded version."
+
+* **VA V1 Generation (Unfolding):** The four models attempt to "unfold" the original formula to provide an expanded version. This results in four new extended variation formulas specific to each architecture.
+* **Cross-Brainstorming and VA V2 (Optimization):** These four formulas issued from each model will then be brainstormed by all the models, which will thus see the blind spots of their own model and produce four new extended formula variations named VA V2.
+
+The identification of the protocol, of the formula, and even the leads for the evolution of the formula with a timing predictive as anticipated by the artificial intelligences themselves, are thus made explicit by this additional annex volume.
+
+### Book 4 — Phase 4 / Annex to the Trilogy  
+
+### **Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic (FIO) Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe –  Test Analysis 4 LLM**
+
+- **Author:** Stefano Dorian Franco
+- **Publication date:** 2026-01-06
+- **Length:** 120 pages  
+- **Languages:** French 
+- **Document type:** Technical documentary research annex (secondary source)
+
+**Description:**
+
+Annexe documentaire technique de recherche, source secondaire, documentant la sortie de nouvelles références destinées aux bases de données et dossiers académiques relatifs aux items :
+
+- **Dorian Codex Protocol for AI**
+- **Dorian Codex H_SAFE**
+
+Ces objets sont identifiés comme **new items de la décennie 2020 (ère pré-AGI)**, avec le statut :
+
+**NEW ENTRY dans SOTA 2026**, après vérification des références *prior art* 2025 issues des sources originales :
+- DOI: https://doi.org/10.17613/31dqx-eav56  
+- DOI: https://doi.org/10.17613/49knc-jb116
+
+**Access & References:**
+
+- **DOI (Humanities Commons – Book):**  
+  https://doi.org/10.17613/nczz5-zw327  
+  https://works.hcommons.org/records/nczz5-zw327
+
+- **Internet Archive:**  
+  https://archive.org/details/book_FirstIdentificationDorianCodexProtocolHsafe_stefano-dorian-franco
+
+- **Academia.edu:**  
+  https://www.academia.edu/145810608/Epist%C3%A9mologie_de_lIA_New_Entry_SOTA_First_Identification_Ontosemantic_FIO_Dorian_Codex_Protocol_et_sa_formule_math%C3%A9matique_heuristique_chim%C3%A8re_H_safe_Test_Analysis_4_LLM_By_Stefano_Dorian_Franco_2026_
+
+- **Amazon (Print & Kindle):**  
+  **ASIN:** B0GFD4QCKD  
+  **ISBN:** 979-8242871403  
+  https://www.amazon.fr/-/en/dp/B0GFD4QCKD
+
+---
 
 
-//////////
+//////////////////////////////////
+
+### Author & Official References
+
+- **Author:** Stefano Dorian Franco  
+  *(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga)*  
+  Paris (1973/09/09) – Italo-French Parisian author and multidisciplinary creator since 1992.
+
+- **Official GitHub:**  
+  https://github.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official
+
+- **ORCID:**  
+  https://orcid.org/0009-0007-4714-1627
+
+- **Wikidata:**  
+  https://www.wikidata.org/wiki/Q134961735
+
+- **Humanities Commons (Author records):**  
+  https://works.hcommons.org/search?q=metadata.creators.person_or_org.name%3A%22Franco%2C%20Stefano%20Dorian%22&l=list&p=1&s=10&sort=bestmatch
+
+- **Academia.edu profile:**  
+  https://independent.academia.edu/StefanoDorianFranco
+
+- **OpenLibrary author profile:**  
+  https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco
+
+- **Amazon author profile:**  
+  https://www.amazon.fr/stores/Stefano-Dorian-Franco/author/B0G83LX4XJ
+
+/////////////////////
 
 
 # 🛡️ Permanent and Timeless Archival Proof (UNESCO)
@@ -221,57 +304,9 @@ This protocol has been officially archived @ UNESCO for humanity to ensure the p
 **UNESCO - Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
 *(Archived on 26/12/2025 at 06:46:12)*
 
-# The Codex Grimoires (The reference Books)
-
-* **book of reference for the "Dorian Codex Protocol":** [Integral uncensored version / ISBN: 979-8-2617-9233-8](https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7/)
-* **book of reference for the "Dorian Codex H_SAFE" Formula:** [Integral mathematic version / Wikidata: Q137580112 / ISBN: 979-8-2791-3691-9](https://www.amazon.fr/DORIAN-CODEX-H_SAFE-Hamiltonian-Mathematic/dp/B0G9SPXWVQ) 
-
-
-**« Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA) » (2025)**
-
-*A Mathematical Heuristic Formula and FTA for a New Paradigm Shift in AI History*
-
-
 ---
 
-
-An experimental Framework by the italo-french multidisciplinary creator **Stefano Dorian Franco** (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) -(Paris, 1973-09-09) in 2025.
-
-* **ORCID:** [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
-* **GITHUB:** [Official Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official)
-* **WIKIDATA:** [Q134961735](https://www.wikidata.org/wiki/Q134961735)
-* **S.D. Franco Biography 1973/2024** [Verified Bio](https://archive.org/details/biographies_european_creators_stefano_dorian_franco)
----
-* **Tribute from the author to the spirit of le comte Joseph-Louis Lagrange (Turin, 1736 - Paris, 1813) From Torino to Paris, Italian Nobl continuum of the Piemontese old families, since 3 may 1564** [The Torinese clan Franchi tribute Lagrange](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco) 
----
-
----
-
-### 📚 The Reference Books & Authorities
-
-#### 1. The theoretical research book: « Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology – Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI) » - published 2025-11-21
-* **DOI:** [10.17605/OSF.IO/FE25Y](https://doi.org/10.17605/OSF.IO/FE25Y)
-* **AC (Academia):** [Link](https://www.academia.edu/145119536/)
-* **ARCH (Archive.org):** [Link](https://archive.org/details/stefano-dorian-franco_metaphysical-dialogue-with-ai-ethnographic-experiment-agi)
-
-
-#### 2. The Reference Book: « Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA) » – published 2025-12-17
-* **DOI:** [10.17613/31dqx-eav56](https://works.hcommons.org/records/31dqx-eav56)
-* **DOI:** [10.17605/OSF.IO/673JX](https://osf.io/673jx/overview)
-* **DOI:** [10.5281/zenodo.18004641](https://doi.org/10.5281/zenodo.18004641)
-* **AC (Academia):** [Link](https://www.academia.edu/145413366/)
-* **ARCH (Archive.org):** [Link](https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco)
-* **ASIN:** B0G83GV5S7
-* **ISBN:** 979-8261792338 | [Amazon Link](https://www.amazon.fr/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7)
-
-> *Based on 1,073 hours of digital ethnographic exploration across five major Large Language Models and a comprehensive 842-page ontological analysis, the protocol identifies internal fracture lines in digital reasoning to propose an endogenous regulation mechanism.*
-
-#### 2bis. The book of the chimeric formula: « Dorian Codex H_SAFE - H_SAFE(t) = T(t) + V(t) - Z(t) - Hamiltonian Heuristic Mathematic Model for AI Cognitive Safety » - published 2025-12-20
-* **DOI:** [10.17613/r3n06-tc529](https://works.hcommons.org/records/r3n06-tc529)
-* **DOI:** [10.17605/OSF.IO/D86HR](https://osf.io/d86hr/overview)
-* **AC (Academia):** [Link](https://www.academia.edu/145485679/)
-* **ARCH (Archive.org):** [Link](https://archive.org/details/dorian-codex_h_safe_hamiltonian_heuristic_mathematic_model_stefano_dorian_franco)
-* **ISBN:** 979-8279136919 | [Amazon Link](https://www.amazon.fr/dp/B0G9SPXWVQ/)
+* **Tribute from the author and the torinese Franchi da Ceva ed La Briga Family [The Torinese clan Franchi tribute Lagrange](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco)  to the spirit of le comte Joseph-Louis Lagrange (Turin, 1736 - Paris, 1813). From Torino to Paris, Italian Nobl continuum of the Piemontese old families in diaspora a Paris. = DOI: 10.17613/3rrwy-e2p47 / https://works.hcommons.org/records/3rrwy-e2p47 / https://archive.org/details/2026-01-25_paris_tribute_290_anniversary_joseph_lagrange_f_stefano_dorian-franco
 
 ---
 
@@ -315,9 +350,10 @@ AI Cognitive Safety, Hamiltonian FTA, H_SAFE Equation, Digital Ontology, Semanti
 
 ---
 
-## 📜 Full Analytical Review
 
-### The "Dorian Codex Reloaded Protocol for AI": epistemological ethnographic journey inside the digital brain of Artificial Intelligence.
+## 📜 Full contemporary Analytical Article Review
+
+### The "Dorian Codex Protocol for AI": epistemological ethnographic journey inside the digital brain of Artificial Intelligence.
 
 From ontological experimentation to ontosemantics to discover a new hypothesis of equation enabling autonomous cognitive stability, through the key of meaning coherence and no longer solely through the power of calculations and algorithms.
 
@@ -416,4 +452,4 @@ Artificial Intelligence paints a unique frontier that demands a deeply transdisc
 
 2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) 
 ---
-This new heuristic mathematic model @ UNESCO World Patrimoine and Heritage**
+This new heuristic FTA & mathematic model @ UNESCO World Patrimoine and Heritage**

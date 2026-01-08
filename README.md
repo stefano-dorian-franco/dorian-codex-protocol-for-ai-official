@@ -7,6 +7,40 @@ Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. No
 
 **Licence Creative Commons CC BY-NC-SA 4.0**
 
+# # Dorian Codex Protocol for AI (wiki Entry)
+
+The **Dorian Codex Protocol for Artificial intelligence** is a theoretical framework for AI proposed in 2025 by the Italo-French independent author and multidisciplinary creator **Stefano Dorian Franco**, situated within the field of the **epistemology of artificial intelligence**. It aims to describe and characterize the **internal cognitive stability of artificial intelligence systems**, particularly in the context of the so-called *pre-AGI* period of the 2020s.
+
+The protocol is a FTA (**Theoretical Fundamental Architecture**) based on a **heuristic mathematical formula**, referred to as **Dorian Codex H_SAFE**, expressed as:  
+**H_SAFE(t) = T(t) + V(t) − Z(t)**.  
+This formula is conceived as a conceptual *boundary object* or *mathematical chimera*, intended to model interactions between semantic dynamics, internal coherence, and entropic cost in advanced AI systems.
+
+## History
+
+The Dorian Codex Protocol was developed and published between November and December 2025, in a series of three volumes forming a conceptual trilogy, followed in January 2026 by an annex volume documenting its first identification by widely deployed large language models.
+
+The author presents the protocol as a response to perceived limitations of traditional AI evaluation metrics, at a time when language models reached a level of complexity that rendered their internal states difficult to observe. The project was released under an open Creative Commons license, with multiple deposits across academic and archival platforms.
+
+## Description
+
+### The protocol
+
+The Dorian Codex Protocol is described as a **Theoretical Fundamental Architecture** (FTA), non-algorithmic in nature, designed to explore a zone described by the author as *cognitive computational latency*. This zone refers to emergent internal processes in AI systems, located between observable inputs and outputs.
+
+The protocol employs a methodology inspired by ethnography applied to digital systems, combining conceptual analysis, minimal mathematical formalization, and archival documentation.
+
+### The H_SAFE formula
+
+The **H_SAFE** formula constitutes the conceptual core of the protocol. It articulates three components:
+
+- **T(t)**, interpreted as a dynamic of semantic transformation,  
+- **V(t)**, associated with internal coherence or alignment,  
+- **Z(t)**, representing an entropic cost or cognitive drift.
+
+The formula is not intended as a physical equation or a predictive model, but as a heuristic tool for reasoning about the internal stability of AI systems.
+
+---
+
 # 1. DORIAN CODEX PROTOCOL FOR AI & ITS HEURISTIC FORMULA 
 
 **EXPLORATION of the PENTADIMENSIONAL algorithmic hidden 5D-AI digital cognitive-MAP**

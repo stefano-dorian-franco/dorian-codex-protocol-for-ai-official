@@ -16,7 +16,7 @@ Having been conceived outside the pressures and influences of academic instituti
 ### 🛡️ Permanent Archival Prior Art Patrimoine Conservation (UNESCO)
 This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
 **Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
-*(Archived on 26/12/2025 at 06:46:12)*
+*(Archived on 26/12/2025 at 06:46:12)* & swh:1:dir:8f39f379a9572412e20601614761062080824a1b *(Archived on 08/01/2026 at 21:57:46 UTC)*
 
 
 ![Dorian Codex Bibliothèque](covercodex5.Jpg)

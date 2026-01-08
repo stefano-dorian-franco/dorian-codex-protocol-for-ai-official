@@ -1,15 +1,26 @@
 # dorian-codex-protocol-for-ai-official
-This GitHub repository is the OFFICIAL database for the conceptual framework of the Theoretical Fundamental Architecture (FTA) **DORIAN CODEX PROTOCOL FOR AI** and its mathematical heuristic chimera **FORMULA** DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t)
+This GitHub repository is the OFFICIAL database for the conceptual framework of the Theoretical Fundamental Architecture (FTA) **DORIAN CODEX PROTOCOL FOR AI** and its mathematical heuristic chimera **FORMULA** DORIAN CODEX H_SAFE - **H_safe(t) = T(t) + V(t) − Z(t)**
 
 *No claim explicit introduction : Nature: Epistemological field experimentation // Temporal Scope: Pre-AGI era (2020–2030)
-Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. Not looking for commercial benchmarks or academical reviews // Goal: To document, through direct experimentation and reflexive analysis, the limits, forms, and emergent structures of artificial cognition before the advent of Artificial General Intelligence (AGI). This project does not attempt to define AGI, predict its emergence, or propose a validated scientific theory. It documents what artificial intelligence was able to think, formalize, and hallucinate at the edge of its own epistemic limits of the decade 2020 pre-AGI.
-© Stefano Dorian Franco, all rights reserved.*
+Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. Not looking for commercial benchmarks or academical reviews // Goal: To document, through direct experimentation and reflexive analysis, the limits, forms, and emergent structures of artificial cognition before the advent of Artificial General Intelligence (AGI). This project does not attempt to define AGI, predict its emergence, or propose a validated scientific theory. It documents what artificial intelligence was able to think, formalize, and hallucinate at the edge of its own epistemic limits of the decade 2020 pre-AGI.*
 
+© Stefano Dorian Franco, all rights reserved.*
 **Licence Creative Commons CC BY-NC-SA 4.0**
+
+### 🛡️ Permanent Archival Prior Art Patrimoine Conservation (UNESCO)
+This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
+**Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
+*(Archived on 26/12/2025 at 06:46:12)*
+
+
+![Dorian Codex Bibliothèque](covercodex5.Jpg)
+
 
 # # Dorian Codex Protocol for AI (wiki Entry)
 
-The **Dorian Codex Protocol for Artificial intelligence** is a theoretical framework for AI proposed in 2025 by the Italo-French independent author and multidisciplinary creator **Stefano Dorian Franco**, situated within the field of the **epistemology of artificial intelligence**. It aims to describe and characterize the **internal cognitive stability of artificial intelligence systems**, particularly in the context of the so-called *pre-AGI* period of the 2020s.
+The **Dorian Codex Protocol for Artificial intelligence** is a **Theoretical Fundamental Architecture (FTA)** for **Artificial Intelligence** proposed "Prior Art" in 2025 by the Italo-French author, multidisciplinary creator, and Independent Researcher **Stefano Dorian Franco**, situated in the transdiscipliary crossroad of the **digital ethnography**,  **epistemology of artificial intelligence**, **ontology of artificial intelligence**, **AI Safety & Cognitive Alignment**, **Theoretical architecture** and **new mathematical heuristic equation**, referenced on the **SOTA decade 2020** as an alternative **AI outsider theory**. 
+
+It aims to describe and characterize the **internal cognitive stability of artificial intelligence systems**, particularly in the context of the so-called *pre-AGI* period of the 2020s.
 
 The protocol is a FTA (**Theoretical Fundamental Architecture**) based on a **heuristic mathematical formula**, referred to as **Dorian Codex H_SAFE**, expressed as:  
 **H_SAFE(t) = T(t) + V(t) − Z(t)**.  
@@ -17,9 +28,11 @@ This formula is conceived as a conceptual *boundary object* or *mathematical chi
 
 ## History
 
-The Dorian Codex Protocol was developed and published between November and December 2025, in a series of three volumes forming a conceptual trilogy, followed in January 2026 by an annex volume documenting its first identification by widely deployed large language models.
+The Dorian Codex Protocol was developed and published between November 2024 in Turin, Italy, and December 2025 in Paris, France, in a series of 4 books (three volumes forming a conceptual trilogy, followed in January 2026 by an annex volume documenting its first identification by widely deployed large language models).
 
-The author presents the protocol as a response to perceived limitations of traditional AI evaluation metrics, at a time when language models reached a level of complexity that rendered their internal states difficult to observe. The project was released under an open Creative Commons license, with multiple deposits across academic and archival platforms.
+The author presents the protocol as a heuristic proposal for the exploration of the limitations of traditional AI evaluation metrics in the LLM blackboxs, at a time when language models reached a level of complexity that rendered their internal states difficult to observe and understand even by their conceptors. 
+
+The project was released under an open Creative Commons license, with multiple deposits across academic and archival platforms.
 
 ## Description
 
@@ -120,6 +133,10 @@ The set of raw data is then reclassified to constitute a research memoir. This d
 
 ### Book 1 — Phase 1 / Trilogy 1 of 3
 
+
+![Book 1](covercodex1.Jpg)
+
+
 ### **Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology –  Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)**
 
 - **Author:** Stefano Dorian Franco
@@ -160,7 +177,9 @@ To verify the functionality of its intrinsic properties, create two implementati
 
 The set of these structures constitutes the base protocol, the indispensable operational foundation to open the way to all possible future evolutions of the project.
 
-### Book 2 — Phase 2 / Trilogy 2 of 3  
+## Book 2 — Phase 2 / Trilogy 2 of 3  
+
+![Book 2](covercodex2.jpg)
 
 ### **Dorian Codex Protocol for Artificial Intelligence –  Hamiltonian Theoretical Fundamental Architecture (FTA)**
 
@@ -209,7 +228,9 @@ After the phases of exploration of the cognitive interzone and conceptualization
 * **Ontosemantic Mapping:** Definition of the five physical laws with which the formula enters into conceptual violation. Identification of a map of the cognitive interzone from the alignment of these five rupture points, thus creating an unprecedented mapping of the ontosemantic space.
 * **Epistemological Role:** Affirmation of the place of this formula as a *witness-marker* in the history of the epistemology of artificial intelligence.
 
-### Book 3 — Phase 3 / Trilogy 3 of 3  
+## Book 3 — Phase 3 / Trilogy 3 of 3  
+
+![Book 3](covercodex3.jpg)
 
 ### **Official Source-reference for DORIAN CODEX H_SAFE –  H_safe(t) = T(t) + V(t) − Z(t) –  Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence (AGI)**
 
@@ -257,7 +278,9 @@ The way AIs will then see the protocol will depend on a complex number of factor
 
 The identification of the protocol, of the formula, and even the leads for the evolution of the formula with a timing predictive as anticipated by the artificial intelligences themselves, are thus made explicit by this additional annex volume.
 
-### Book 4 — Phase 4 / Annex to the Trilogy  
+## Book 4 — Phase 4 / Annex to the Trilogy 
+
+![Book 4](covercodex4.jpg)
 
 ### **Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic (FIO) Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe –  Test Analysis 4 LLM**
 
@@ -330,17 +353,9 @@ Ces objets sont identifiés comme **new items de la décennie 2020 (ère pré-AG
   https://www.amazon.fr/stores/Stefano-Dorian-Franco/author/B0G83LX4XJ
 
 /////////////////////
-
-
-# 🛡️ Permanent and Timeless Archival Proof (UNESCO)
-This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
-
-**UNESCO - Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
-*(Archived on 26/12/2025 at 06:46:12)*
-
 ---
 
-* **Tribute from the author and the torinese Franchi da Ceva ed La Briga Family [The Torinese clan Franchi tribute Lagrange](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco)  to the spirit of le comte Joseph-Louis Lagrange (Turin, 1736 - Paris, 1813). From Torino to Paris, Italian Nobl continuum of the Piemontese old families in diaspora a Paris. = DOI: 10.17613/3rrwy-e2p47 / https://works.hcommons.org/records/3rrwy-e2p47 / https://archive.org/details/2026-01-25_paris_tribute_290_anniversary_joseph_lagrange_f_stefano_dorian-franco
+* **Tribute from the author and his Torinese Family "Franchi da Ceva ed La Briga" [The Torinese clan Franchi tribute Lagrange](https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco)  to the spirit of le comte Joseph-Louis Lagrange (Turin, 1736 - Paris, 1813). From Torino to Paris, Italian Nobl continuum of the Piemontese old families in diaspora a Paris. = DOI: 10.17613/3rrwy-e2p47 / https://works.hcommons.org/records/3rrwy-e2p47 / https://archive.org/details/2026-01-25_paris_tribute_290_anniversary_joseph_lagrange_f_stefano_dorian-franco
 
 ---
 
@@ -440,12 +455,6 @@ The **Dorian Codex Protocol** ($H_{SAFE} = T + V - Z$) is an original and indepe
 | **V (Alignment)** | Barrier Functions (Lyapunov) | **Ethical Alignment & Truth Vectoring** |
 | **Z (Entropy)** | Control Cost / Perturbations | **Semantic Decay & Information Loss** |
 
-
-### 🛡️ Permanent Archival Proof (UNESCO)
-This protocol has been officially archived @ UNESCO for humanity to ensure the permanence and integrity of its formulation.
-
-**Software Heritage ID (SWHID):** `swh:1:dir:728551469e801a61041113b632906f36603a152d`  
-*(Archived on 26/12/2025 at 06:46:12)*
 
 ---
 

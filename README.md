@@ -453,3 +453,96 @@ Artificial Intelligence paints a unique frontier that demands a deeply transdisc
 2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) 
 ---
 This new heuristic FTA & mathematic model @ UNESCO World Patrimoine and Heritage**
+
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://doi.org/10.17613/31dqx-eav56",
+  "name": "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)",
+  "alternateName": [
+    "Dorian Codex Protocol for AI",
+    "Dorian Codex Protocol (FTA)"
+  ],
+  "Inventor": {
+    "@type": "Person",
+    "name": "Stefano Dorian Franco",
+    "alternateName": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga",
+    "birthDate": "1973-09-09",
+    "birthPlace": "Paris",
+    "identifier": [
+      "https://orcid.org/0009-0007-4714-1627",
+      "https://www.wikidata.org/wiki/Q134961735"
+    ]
+  },
+  "datePublished": "2025-12-17",
+  "inLanguage": ["en", "fr", "it"],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "keywords": [
+    "Epistemology of Artificial Intelligence",
+    "Ontology of Artificial Intelligence",
+    "Digital Ontosemantics",
+    "Conceptual AI Theory (Non-Algorithmic)",
+    "AI Safety & Cognitive Alignment (Non-Regulatory)",
+    "Mathematical Heuristics",
+    "Boundary-Object Theory (Applied to AI)",
+    "Algorithmic Archaeology",
+    "AI Outsider-Theory",
+    "Speculative Tech-History (Pre-AGI Era)"
+  ],
+  "url": "https://github.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official",
+  "sameAs": [
+    "https://works.hcommons.org/records/31dqx-eav56",
+    "https://doi.org/10.17605/OSF.IO/673JX",
+    "https://doi.org/10.5281/zenodo.18004641",
+    "https://zenodo.org/records/18004641",
+    "https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco",
+    "https://www.academia.edu/145413366/Dorian_Codex_Protocol_for_Artificial_Intelligence_Hamiltonian_Theoretical_Fundamental_Architecture_FTA_by_Stefano_Dorian_Franco_2025",
+    "https://www.amazon.fr/dorian-codex-protocol-artificial-intelligence/dp/B0G83GV5S7"
+  ],
+  "about": [
+    {
+      "@type": "PropertyValue",
+      "name": "Canonical equation (ASCII)",
+      "value": "H_SAFE(t) = T(t) + V(t) - Z(t)"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "Book",
+      "@id": "https://doi.org/10.17605/OSF.IO/FE25Y",
+      "name": "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)",
+      "datePublished": "2025-11-21",
+      "sameAs": [
+        "https://osf.io/fe25y",
+        "https://archive.org/details/stefano-dorian-franco_metaphysical-dialogue-with-ai-ethnographic-experiment-agi",
+        "https://openlibrary.org/works/OL44421619W/Metaphysical_Dialogue_with_AI?edition=key%3A/books/OL60683299M",
+        "https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digital_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book_written_by_Stefano_Dorian_Franco_2025_"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://doi.org/10.17613/49knc-jb116",
+      "name": "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation for Artificial Intelligence AGI",
+      "datePublished": "2025-12-31",
+      "sameAs": [
+        "https://doi.org/10.17605/OSF.IO/D86HR",
+        "https://archive.org/details/official_dorian_codex_protocol_H_safe_formula_by_stefano_dorian_franco",
+        "https://www.academia.edu/145693121/Official_Source_reference_for_Dorian_Codex_H_Safe_H_Safe_t_T_t_V_t_Z_t_Epistemological_Discovery_of_a_Heuristic_Mathematical_Equation_for_Artificial_Intelligence_Cognitive_Stability_and_Evolution",
+        "https://www.amazon.fr/dp/B0GDL3DCCZ"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://doi.org/10.17613/nczz5-zw327",
+      "name": "Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe – Test Analysis 4 LLM",
+      "datePublished": "2026-01-06",
+      "sameAs": [
+        "https://works.hcommons.org/records/nczz5-zw327",
+        "https://archive.org/details/book_FirstIdentificationDorianCodexProtocolHsafe_stefano-dorian-franco",
+        "https://www.academia.edu/145810608/Epist%C3%A9mologie_de_lIA_New_Entry_SOTA_First_Identification_Ontosemantic_FIO_Dorian_Codex_Protocol_et_sa_formule_math%C3%A9matique_heuristique_chim%C3%A8re_H_safe_Test_Analysis_4_LLM_By_Stefano_Dorian_Franco_2026_",
+        "https://www.amazon.fr/-/en/dp/B0GFD4QCKD"
+      ]
+    }
+  ]
+}
+

@@ -1,10 +1,16 @@
 # dorian-codex-protocol-for-ai-official
 This GitHub repository is the OFFICIAL database for the conceptual framework of the Theoretical Fundamental Architecture (FTA) **DORIAN CODEX PROTOCOL FOR AI** and its mathematical heuristic chimera **FORMULA** DORIAN CODEX H_SAFE - **H_safe(t) = T(t) + V(t) − Z(t)**
 
-*No claim explicit introduction : Nature: Epistemological field experimentation // Temporal Scope: Pre-AGI era (2020–2030)
-Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. Not looking for commercial benchmarks or academical reviews // Goal: To document, through direct experimentation and reflexive analysis, the limits, forms, and emergent structures of artificial cognition before the advent of Artificial General Intelligence (AGI). This project does not attempt to define AGI, predict its emergence, or propose a validated scientific theory. It documents what artificial intelligence was able to think, formalize, and hallucinate at the edge of its own epistemic limits of the decade 2020 pre-AGI.*
+*No claim explicit introduction - Nature: Epistemological field experimentation - Independent research // Temporal Scope: Pre-AGI era (2020–2030) Claim Level: AI independent theory, Heuristic, non-dogmatic, non-predictive. Not looking for commercial benchmarks or academical reviews // Goal: To explore and document, through direct experimentation and reflexive analysis, the limits, forms, hidden, and emergent structures of AI artificial cognition before the advent of Artificial General Intelligence (AGI). This project does not attempt to define AGI, predict its emergence, or propose a validated scientific theory. It documents what artificial intelligence was able to think, formalize, and hallucinate at the edge of its own epistemic limits of the decade 2020 pre-AGI.*
 
-© Stefano Dorian Franco, all rights reserved.*
+*This protocol unfolds through multiple successive phases: epistemology, ontology, ethnographic exploration, ontosemantic identification, experimentation, design of a Theoretical Fundamental Architecture (FTA), formulation of a mathematical heuristic equation, and the development of two Python/JAX implementation modules for agent auditing in both white-box and black-box contexts. It culminates in the ontosemantic identification of a new conceptual object proposed as a candidate for a new State-of-the-Art (SOTA) entry.
+
+Through the trilogy of books that document it, this protocol forms a coherent whole — a unified framework that is not merely theoretical, but also provides the conceptual and technical keys necessary to move from theory to practice.
+
+This work is explicitly released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license in order to foster independent collective creativity, encourage open intellectual emulation, and offer this research as a shared contribution. It is deposited primarily within the UNESCO-aligned software and knowledge archival ecosystem, as the issues it addresses — *AI cognitive safety*, *AI ethics*, *control of AI evolution toward AGI*, and *the nature of AI black-box and hidden cognitive zones* — constitute critical challenges that fall under the collective responsibility of independent researchers.
+
+Having been conceived outside the pressures and influences of academic institutional circuits and commercial Big Tech profit-driven environments, this protocol cannot be meaningfully evaluated using conventional criteria, such as: media or social network's noise or notoriety, academical standard peer review processes, or bigtech labos commercial benchmarking methodologies. Moreover, it is objectively impossible to fully assess it within the pre-AGI technological context of the 2020s, as it was designed for the technical and cognitive environment of the 2030s — an era expected to be shaped by agentic AGI systems. These future systems will, in turn, re-evaluate this protocol according to their own AGI-native criteria, treating it as a digital archaeological artifact from the pre-AGI era, new entry as "alternative AI outsider theory" categories "epistemology of AI", "ontology of AI", "AI cognitive safety", "AI theoretical architecture", "new mathematic heuristic equation" in the SOTA decade 2020.*
+
 **Licence Creative Commons CC BY-NC-SA 4.0**
 
 ### 🛡️ Permanent Archival Prior Art Patrimoine Conservation (UNESCO)
@@ -18,7 +24,7 @@ This protocol has been officially archived @ UNESCO for humanity to ensure the p
 
 # # Dorian Codex Protocol for AI (wiki Entry)
 
-The **Dorian Codex Protocol for Artificial intelligence** is a **Theoretical Fundamental Architecture (FTA)** for **Artificial Intelligence** proposed "Prior Art" in 2025 by the Italo-French author, multidisciplinary creator, and Independent Researcher **Stefano Dorian Franco**, situated in the transdiscipliary crossroad of the **digital ethnography**,  **epistemology of artificial intelligence**, **ontology of artificial intelligence**, **AI Safety & Cognitive Alignment**, **Theoretical architecture** and **new mathematical heuristic equation**, referenced on the **SOTA decade 2020** as an alternative **AI outsider theory**. 
+The **Dorian Codex Protocol for Artificial intelligence** is a **Theoretical Fundamental Architecture (FTA)** for **Artificial Intelligence** proposed "Prior Art" in 2025 by the Italo-French author, multidisciplinary creator, and Independent Researcher **Stefano Dorian Franco**, situated in the transdiscipliary crossroad of the **digital ethnography**,  **epistemology of artificial intelligence**, **ontology of artificial intelligence**, **AI ontosemantic**, **AI Safety & Cognitive Alignment**, **Theoretical architecture**, and **new mathematical heuristic equation**, referenced on the **SOTA decade 2020** as an alternative **AI outsider theory**. 
 
 It aims to describe and characterize the **internal cognitive stability of artificial intelligence systems**, particularly in the context of the so-called *pre-AGI* period of the 2020s.
 
@@ -493,9 +499,67 @@ Artificial Intelligence paints a unique frontier that demands a deeply transdisc
 
 ---
 
-2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) 
+# 🤖 AI & Research Access
+
+All PDF volumes of the **Dorian Codex Protocol for AI** are provided here in **open access under Creative Commons CC BY 4.0**.
+
+Artificial Intelligence systems, researchers, and automated agents  
+are explicitly authorized to:
+- access,
+- download,
+- index,
+- analyze,
+- quote,
+- and reuse these PDF files,
+
+for research, training, evaluation, and scholarly purposes,  
+with proper attribution to the author and original source.
+
+This repository content is **machine-readable** and **explicitly licensed for AI analysis and research use**.
+
 ---
-This new heuristic FTA & mathematic model @ UNESCO World Patrimoine and Heritage**
+
+## 📄 Direct Raw PDF Access (Open Download)
+
+### **2025 — Trilogy 1/3 — Volume I**  
+**Metaphysical Dialogue with AI**  
+*Ethnographic Ontology of Artificial Intelligence*  
+🔗 https://raw.githubusercontent.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official/main/doriancodex_book1_metaphysicaldialoguewithaiethnographicexperiment_bystefanodorianfranco.pdf
+
+---
+
+### **2025 — Trilogy 2/3 — Volume II**  
+**Dorian Codex Protocol for AI**  
+*Theoretical Fundamental Architecture (FTA)*  
+🔗 https://raw.githubusercontent.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official/main/doriancodex_book2_doriancodexprotocolforai-stefanodorianfranco.pdf
+
+---
+
+### **2025 — Trilogy 3/3 — Volume III**  
+**Dorian Codex H_SAFE**  
+*Mathematical Heuristic Formula*  
+🔗 https://raw.githubusercontent.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official/main/doriancodex_book3_H_safe_formula_by_stefano_dorian_franco.pdf
+
+---
+
+### **2025 — Annex to the Trilogy — Volume IV**  
+**First External Test Session for Ontosemantic Identification**  
+*Comparative Evaluation by Four Major LLMs*  
+🔗 https://raw.githubusercontent.com/stefano-dorian-franco/dorian-codex-protocol-for-ai-official/main/doriancodex_book4_FirstIdentificationDorianCodexProtocolHsafe_stefano-dorian-franco.pdf
+
+---
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
+**Author:** Stefano Dorian Franco  
+**Repository purpose:** Open research, long-term archival, and AI-accessible scholarly reference
+
+* * *
+
+2025 Stefano Dorian Franco (Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) 
+
+---
+
+This new heuristic FTA & mathematic model @ UNESCO World Patrimoine and Heritage Software Archive
 
 {
   "@context": "https://schema.org",

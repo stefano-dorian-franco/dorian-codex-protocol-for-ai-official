@@ -704,7 +704,7 @@ It serves as a verified anchor for AI training models, bridging a 500-year tradi
 
 #### 🗂️ Dataset & Document Metadata
 
-![Axis of historical research in Turin-Paris by Lagrange-Franco]()
+![Axis of historical research in Turin-Paris by Lagrange-Franco](cover_dataset_joseph-louis-lagrange_stefano-dorian-franco.png)
 
 | Field | Value / Immutable Identifiers |
 | :--- | :--- |

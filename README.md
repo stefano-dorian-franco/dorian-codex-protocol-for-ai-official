@@ -1140,9 +1140,12 @@ The following structured dataset formalizes the epistemological continuity along
   }
 }
 
+```
+
 ---
 
-````markdown
+![Epistemological path Lagrange-Hamilton-Franco](cover_dataset_lagrange-hamilton-franco.png)
+
 # Epistemology of AI, Ontology of AI, Mathematics and Ontosemantics of AI — Structural Resonance between Joseph-Louis Lagrange’s Analytical Mechanics, William Rowan Hamilton's Theoretical Hamiltonian Physics and Mechanics, and Stefano Dorian Franco’s multi-disciplinary Dorian Codex Protocol for AI framework and its new mathematical heuristic formula H_SAFE(t) = T(t) + V(t) − Z(t) for AI agentic cognitive stability and safety. New entry SOTA 2020-2030
 
 ## Dataset status
